@@ -14,11 +14,11 @@ Les projets personnels sont sur [github.com/MattiaPARRINELLO](https://github.com
 
 ## 🗂️ Projets
 
-| Projet | Description |
-|--------|-------------|
-| [tri-benchmark](https://github.com/mattia-school/tri-benchmark) | Benchmark de 22 algorithmes de tri |
-| [visite-amsterdam](https://github.com/mattia-school/visite-amsterdam) | Site vitrine touristique Amsterdam |
-| [gymshark-sync](https://github.com/mattia-school/gymshark-sync) | Application de synchronisation |
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| [tri-benchmark](https://github.com/mattia-school/tri-benchmark) | Benchmark de 22 algorithmes de tri | Python |
+| [visite-amsterdam](https://github.com/mattia-school/visite-amsterdam) | Site vitrine touristique Amsterdam | HTML/CSS/JS |
+| [gymshark-sync](https://github.com/mattia-school/gymshark-sync) | Assistant IA local avec Ollama et streaming SSE | Node.js, Ollama |
 
 ---
 
